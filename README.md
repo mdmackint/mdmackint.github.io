@@ -2,6 +2,7 @@
 Ahoy there, I'm Martin!
 ### About me
 - I'm learning Golang
-- I like cats
 - My preferred Linux distro is Fedora with GNOME or Plasma
-- Getting to know programming
+- I enjoy tinkering with RPi
+
+You can find me on (Mastodon)[https://mastodon.social/@mmackint] and (GitHub)[https://github.com/mdmackint].
