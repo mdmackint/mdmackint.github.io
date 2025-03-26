@@ -1,3 +1,6 @@
+---
+title: Martin Mackintosh
+---
 ## Hi, I'm Martin!
 ### About me
 - I'm learning Go
