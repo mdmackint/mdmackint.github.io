@@ -50,3 +50,8 @@ p {
     background: #d8ffc6;
     color: black;
 }
+
+.transformations {
+    max-width: 95%;
+    border-radius: 0.7rem;
+}
