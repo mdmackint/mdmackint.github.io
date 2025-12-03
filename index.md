@@ -1,12 +1,10 @@
 ---
-title: Martin Mackintosh
+title: Heya, I'm Martin!
 ---
-## Hi, I'm Martin!
 ### About me
-- I'm learning Go
-- My favourite Linux distro is Fedora with GNOME or KDE Plasma
-- I like experimenting with Raspberry Pi Zero
-- I'm learning Vietnamese - tôi học tiếng Việt
+- I work on personal projects in Go and Flutter
+- Linux user (Fedora)
+- Linguistics nerd
 
 ### Links
 #### Projects:
