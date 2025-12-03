@@ -59,3 +59,7 @@ p {
     max-width: 95%;
     border-radius: 0.7rem;
 }
+
+a, a:visited {
+    color: inherit;
+}
